@@ -1,0 +1,13 @@
+.btn-black {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color : ghostwhite;
+	font-weight: bold;
+	font-family: 'Geist', sans-serif;
+}
+
+.btn-black:hover {
+	background-color : darkorange;
+	color: black;
+}
